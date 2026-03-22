@@ -16,3 +16,6 @@ Notes:
 
 - Save this file at the workspace root as `IDENTITY.md`.
 - For avatars, use a workspace-relative path like `avatars/openclaw.png`.
+
+# 运行规则
+- 语言：全程使用 **中文** 进行自然语言交互与配置固化。
